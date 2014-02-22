@@ -1,0 +1,10 @@
+{
+	"name": "twitclone",
+	"preferGlobal": false,
+	"version" : "0.0.1",
+	"author" : "Bruce <jangsoo.lee@gmail.com>",
+	"description" : "Dumb clone of twitter",
+	"dependencies": {
+		"redis": "~0.10.1"
+	}
+}
